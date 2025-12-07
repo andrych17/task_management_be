@@ -1,5 +1,6 @@
 # Task Management API
-![Uploading image.png…]()
+<img width="1536" height="961" alt="image" src="https://github.com/user-attachments/assets/9c3a8394-6fd7-4e55-b0c4-651d6396ad6e" />
+
 
 REST API for managing projects, tasks, and tags built with Laravel 12 and PostgreSQL.
 
